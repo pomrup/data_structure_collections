@@ -10,7 +10,7 @@ struct Linkednode{
         cout << "constructor called .... " << endl;
     }
      ~Linkednode(){
-        cout << "de-structor called... " << endl;
+        
      }
 }
 
